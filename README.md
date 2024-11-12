@@ -20,9 +20,9 @@ a.b=ab implies angle if 0.
 * When angle between a and b is 90 then a.b=0.
 + When angle between a and b is 30 then a.b=|a||b|/2.
 **What we have learnt**
--[X] Dot product
--[X] Formula
--[ ] Properties
+- [X] Dot product
+- [X] Formula
+- [ ] Properties
 
 Dot product code[^1].
 
